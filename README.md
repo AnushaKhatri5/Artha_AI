@@ -111,7 +111,7 @@ Artha AI is an intelligent personal finance management system developed at **Kat
   
   Ushma Sapkota -https://github.com/Ushma-Sapkota
   
-  Anusha Khatri -https://github.com/itsmeanushaa
+  Anusha Khatri -https://github.com/AnushaKhatri5
 
  ## Supervised by Dr. Sushil Shrestha  
 Kathmandu University, Department of Computer Science and Engineering
